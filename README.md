@@ -1,7 +1,7 @@
 # testpublish
 
-Création lien gh-pages :
+Création lien direct avec publication de la branche gh-pages :
 
-URL de la page sous :
+Accès avec url suivant :
 
 https://stephguignard.github.io/testpublish/index.html
